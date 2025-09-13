@@ -1,0 +1,9 @@
+{
+  "name": "chat-pdf-functions",
+  "version": "1.0.0",
+  "description": "Serverless functions for the chat-pdf app",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "buffer": "^6.0.3"
+  }
+}
